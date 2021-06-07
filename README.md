@@ -1,6 +1,8 @@
 # GET USERS PPPOE ROUTEROS
 This tiny script get all users Mikrotik RouterOS and exports to csv file
 
+[![Build Status](https://travis-ci.org/ojpojao/getusers-pppoe.svg?branch=master)](https://travis-ci.org/ojpojao/getusers-pppoe)
+
 ## Requirements
 - [Python](https://www.python.org/) >= 3.6
 - [Pandas](https://pypi.org/project/pandas/) >= 1.2.4
